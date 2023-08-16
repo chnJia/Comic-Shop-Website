@@ -1,0 +1,83 @@
+/* Section Vantagens */
+.lib-row {
+    width: 100%;
+    border-radius: 10px;
+}
+
+.ozi-icon i {
+    font-size: 28px;
+    padding: 0px;
+    font-weight: bold;
+}
+
+.card-text {
+    position: initial;
+}
+
+.lib-panel {
+    margin-bottom: 30px;
+}
+
+.lib-panel img {
+    width: 100%;
+    height: 450px;
+    background-color: transparent;
+}
+
+.lib-panel .row,
+.lib-panel .col-md-6 {
+    margin: 0;
+    padding: 0;
+    background-color: #eccca3;
+    border-radius: 20px;
+}
+
+.lib-panel .lib-row {
+    padding: 0 20px 0 20px;
+}
+
+.lib-panel .lib-row.lib-header {
+    background-color: #a18765;
+    font-size: 20px;
+    padding: 10px 20px 0 20px;
+    font-weight: bold;
+    border-top-left-radius: 0px;
+}
+
+.lib-panel .lib-row.lib-header .lib-header-seperator {
+    height: 2px;
+    width: 26px;
+    margin: 7px 0 7px 0;
+}
+
+.lib-panel .lib-row.lib-desc {
+    position: relative;
+    height: auto;
+    display: block;
+    font-size: 13px;
+    text-align: left;
+}
+
+.lib-row.lib-desc {
+    margin-top: 10px;
+}
+
+.lib-header {
+    height: 170px;
+}
+
+.lib-panel .lib-row.lib-desc a {
+    position: relative;
+    width: 100%;
+    bottom: 10px;
+    left: 20px;
+}
+
+.row-margin-bottom {
+    margin-bottom: 20px;
+}
+
+.box-shadow {
+    -webkit-box-shadow: 0 0 10px 0 rgba(0, 0, 0, .10);
+    box-shadow: 0 0 10px 0 rgba(0, 0, 0, .10);
+}
